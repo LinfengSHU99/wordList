@@ -1,5 +1,5 @@
 <root>
- <folder expanded="0" name="其他词汇">
+ <folder name="其他词汇" expanded="0">
   <headword>divisive</headword>
   <headword>hemp</headword>
   <headword>indigenous</headword>
@@ -84,8 +84,8 @@
   <headword>adverse</headword>
   <headword>hypothesis</headword>
  </folder>
- <folder expanded="0" name="托福21天">
-  <folder expanded="0" name="day1&amp;2">
+ <folder name="托福21天" expanded="0">
+  <folder name="day1&amp;2" expanded="0">
    <headword>abhor</headword>
    <headword>assert</headword>
    <headword>bulk</headword>
@@ -163,7 +163,7 @@
    <headword>accommodation</headword>
    <headword>avid</headword>
   </folder>
-  <folder expanded="0" name="day3">
+  <folder name="day3" expanded="0">
    <headword>hatchling</headword>
    <headword>sibling</headword>
    <headword>aesthetic</headword>
@@ -218,7 +218,7 @@
    <headword>verse</headword>
    <headword>weary</headword>
   </folder>
-  <folder expanded="0" name="day4">
+  <folder name="day4" expanded="0">
    <headword>amid</headword>
    <headword>axe</headword>
    <headword>bison</headword>
@@ -263,7 +263,7 @@
    <headword>treasure</headword>
    <headword>undermine</headword>
   </folder>
-  <folder expanded="0" name="day5">
+  <folder name="day5" expanded="0">
    <headword>abrupt</headword>
    <headword>acquaint</headword>
    <headword>ample</headword>
@@ -314,7 +314,7 @@
    <headword>vaccinate</headword>
    <headword>vocation</headword>
   </folder>
-  <folder expanded="0" name="day6">
+  <folder name="day6" expanded="0">
    <headword>backbone</headword>
    <headword>burial</headword>
    <headword>breach</headword>
@@ -341,7 +341,7 @@
    <headword>rod</headword>
    <headword>saddle</headword>
   </folder>
-  <folder expanded="0" name="day7">
+  <folder name="day7" expanded="0">
    <headword>aggregate</headword>
    <headword>analogy</headword>
    <headword>archaeology</headword>
@@ -385,7 +385,7 @@
    <headword>worm</headword>
    <headword>tenant</headword>
   </folder>
-  <folder expanded="0" name="day8">
+  <folder name="day8" expanded="0">
    <headword>acronym</headword>
    <headword>agitation</headword>
    <headword>arctic</headword>
@@ -430,7 +430,7 @@
    <headword>thorny</headword>
    <headword>vestige</headword>
   </folder>
-  <folder expanded="0" name="day9">
+  <folder name="day9" expanded="0">
    <headword>absurd</headword>
    <headword>akin</headword>
    <headword>arid</headword>
@@ -466,7 +466,7 @@
    <headword>veteran</headword>
    <headword>wren</headword>
   </folder>
-  <folder expanded="0" name="day10">
+  <folder name="day10" expanded="0">
    <headword>atheist</headword>
    <headword>bleak</headword>
    <headword>bust</headword>
@@ -503,7 +503,7 @@
    <headword>supplant</headword>
    <headword>subtle</headword>
   </folder>
-  <folder expanded="0" name="day11">
+  <folder name="day11" expanded="0">
    <headword>algae</headword>
    <headword>antagonize</headword>
    <headword>armour</headword>
@@ -544,7 +544,7 @@
    <headword>wheat</headword>
    <headword>yarn</headword>
   </folder>
-  <folder expanded="0" name="day12">
+  <folder name="day12" expanded="0">
    <headword>antarctic</headword>
    <headword>array</headword>
    <headword>beaver</headword>
@@ -591,7 +591,7 @@
    <headword>vibrant</headword>
    <headword>yearn</headword>
   </folder>
-  <folder expanded="0" name="day13">
+  <folder name="day13" expanded="0">
    <headword>adjunct</headword>
    <headword>alkali</headword>
    <headword>anthropology</headword>
@@ -636,7 +636,7 @@
    <headword>tranquil</headword>
    <headword>whittle</headword>
   </folder>
-  <folder expanded="0" name="day14">
+  <folder name="day14" expanded="0">
    <headword>alligator</headword>
    <headword>antibiotic</headword>
    <headword>artery</headword>
@@ -680,7 +680,7 @@
    <headword>wholesale</headword>
    <headword>youngster</headword>
   </folder>
-  <folder expanded="0" name="day15">
+  <folder name="day15" expanded="0">
    <headword>alloy</headword>
    <headword>auger</headword>
    <headword>bodily</headword>
@@ -722,7 +722,7 @@
    <headword>ward</headword>
    <headword>zigzag</headword>
   </folder>
-  <folder expanded="0" name="day16">
+  <folder name="day16" expanded="0">
    <headword>acclaim</headword>
    <headword>admission</headword>
    <headword>allude</headword>
@@ -759,7 +759,7 @@
    <headword>ware</headword>
    <headword>solder</headword>
   </folder>
-  <folder expanded="0" name="day17">
+  <folder name="day17" expanded="0">
    <headword>accommodate</headword>
    <headword>artifact</headword>
    <headword>autobiography</headword>
@@ -797,7 +797,7 @@
    <headword>synchronous</headword>
    <headword>willow</headword>
   </folder>
-  <folder expanded="0" name="day18">
+  <folder name="day18" expanded="0">
    <headword>adobe</headword>
    <headword>alternate</headword>
    <headword>ape</headword>
@@ -840,7 +840,7 @@
    <headword>warp</headword>
    <headword>windswept</headword>
   </folder>
-  <folder expanded="0" name="day19">
+  <folder name="day19" expanded="0">
    <headword>adolescent</headword>
    <headword>apprentice</headword>
    <headword>autonomy</headword>
@@ -881,7 +881,7 @@
    <headword>trolley</headword>
    <headword>warrant</headword>
   </folder>
-  <folder expanded="0" name="day20">
+  <folder name="day20" expanded="0">
    <headword>asphalt</headword>
    <headword>barren</headword>
    <headword>buckle</headword>
@@ -924,7 +924,7 @@
    <headword>wary</headword>
    <headword>wispy</headword>
   </folder>
-  <folder expanded="0" name="day21">
+  <folder name="day21" expanded="0">
    <headword>advent</headword>
    <headword>aspiring</headword>
    <headword>botanical</headword>
@@ -959,7 +959,7 @@
    <headword>vent</headword>
    <headword>wit</headword>
   </folder>
-  <folder expanded="0" name="1-7生词">
+  <folder name="1-7生词" expanded="0">
    <headword>aggregate</headword>
    <headword>baboon</headword>
    <headword>burgeon</headword>
@@ -1079,7 +1079,7 @@
    <headword>weary</headword>
   </folder>
  </folder>
- <folder expanded="0" name="阅读课词汇">
+ <folder name="阅读课词汇" expanded="0">
   <headword>emerge</headword>
   <headword>remove</headword>
   <headword>land mass</headword>
@@ -1107,7 +1107,7 @@
   <headword>prolong</headword>
   <headword>immersion</headword>
  </folder>
- <folder expanded="0" name="以前的生词">
+ <folder name="以前的生词" expanded="0">
   <headword>fairly</headword>
   <headword>handicap</headword>
   <headword>tow</headword>
@@ -1152,7 +1152,7 @@
   <headword>dealer</headword>
   <headword>fabricate</headword>
  </folder>
- <folder expanded="0" name="New folder">
+ <folder name="New folder" expanded="0">
   <headword>agitation</headword>
   <headword>arctic</headword>
   <headword>beacon</headword>
@@ -1202,12 +1202,12 @@
   <headword>thoroughly</headword>
   <headword>wren</headword>
  </folder>
- <folder expanded="0" name="高级美语">
+ <folder name="高级美语" expanded="0">
   <headword>abound</headword>
   <headword>cosmopolitan</headword>
  </folder>
- <folder expanded="1" name="托福绿宝书">
-  <folder expanded="0" name="list1&amp;2">
+ <folder name="托福绿宝书" expanded="1">
+  <folder name="list1&amp;2" expanded="0">
    <headword>pastel</headword>
    <headword>underscore</headword>
    <headword>husk</headword>
@@ -1265,7 +1265,7 @@
    <headword>inflammation</headword>
    <headword>mammoth</headword>
   </folder>
-  <folder expanded="0" name="list3&amp;4">
+  <folder name="list3&amp;4" expanded="0">
    <headword>compliment</headword>
    <headword>pest</headword>
    <headword>fauna</headword>
@@ -1327,7 +1327,7 @@
    <headword>prudent</headword>
    <headword>ratify</headword>
   </folder>
-  <folder expanded="0" name="list5&amp;6">
+  <folder name="list5&amp;6" expanded="0">
    <headword>hoe</headword>
    <headword>plank</headword>
    <headword>situated</headword>
@@ -1374,7 +1374,7 @@
    <headword>prodigious</headword>
    <headword>typify</headword>
   </folder>
-  <folder expanded="0" name="list7">
+  <folder name="list7" expanded="0">
    <headword>rhinoceros</headword>
    <headword>herald</headword>
    <headword>cardinal</headword>
@@ -1411,7 +1411,7 @@
    <headword>sediment</headword>
    <headword>preoccupation</headword>
   </folder>
-  <folder expanded="1" name="list8&amp;9">
+  <folder name="list8&amp;9" expanded="0">
    <headword>communal</headword>
    <headword>agile</headword>
    <headword>competence</headword>
@@ -1491,8 +1491,75 @@
    <headword>saturation</headword>
    <headword>rehearse</headword>
   </folder>
+  <folder name="list10&amp;11" expanded="1">
+   <headword>nucleus</headword>
+   <headword>planetary</headword>
+   <headword>lash</headword>
+   <headword>repertory</headword>
+   <headword>simultaneous</headword>
+   <headword>foliage</headword>
+   <headword>quarry</headword>
+   <headword>plateau</headword>
+   <headword>benevolent</headword>
+   <headword>causal</headword>
+   <headword>acquisition</headword>
+   <headword>unanimous</headword>
+   <headword>ornamental</headword>
+   <headword>blunt</headword>
+   <headword>credence</headword>
+   <headword>fictitious</headword>
+   <headword>doodle</headword>
+   <headword>blurt</headword>
+   <headword>cradle</headword>
+   <headword>diminution</headword>
+   <headword>exalted</headword>
+   <headword>ambience</headword>
+   <headword>revitalize</headword>
+   <headword>onslaught</headword>
+   <headword>arid</headword>
+   <headword>demolish</headword>
+   <headword>clam</headword>
+   <headword>nicotine</headword>
+   <headword>compassionate</headword>
+   <headword>thrifty</headword>
+   <headword>drought</headword>
+   <headword>staggering</headword>
+   <headword>vertebrate</headword>
+   <headword>stiff</headword>
+   <headword>burgeon</headword>
+   <headword>disgust</headword>
+   <headword>lore</headword>
+   <headword>meticulous</headword>
+   <headword>bruise</headword>
+   <headword>abut</headword>
+   <headword>condiment</headword>
+   <headword>glitter</headword>
+   <headword>indignant</headword>
+   <headword>tortuous</headword>
+   <headword>conducive</headword>
+   <headword>ripple</headword>
+   <headword>urbanization</headword>
+   <headword>slash</headword>
+   <headword>abolish</headword>
+   <headword>pupil</headword>
+   <headword>grill</headword>
+   <headword>disintegrate</headword>
+   <headword>tenuous</headword>
+   <headword>homogeneous</headword>
+   <headword>sheath</headword>
+   <headword>fabricate</headword>
+   <headword>seismology</headword>
+   <headword>welfare</headword>
+   <headword>gross</headword>
+   <headword>slender</headword>
+   <headword>noxious</headword>
+   <headword>agreeable</headword>
+   <headword>ethic</headword>
+   <headword>staple</headword>
+   <headword>fragrant</headword>
+  </folder>
  </folder>
- <folder expanded="0" name="绿宝书难记词">
+ <folder name="绿宝书难记词" expanded="1">
   <headword>acronym</headword>
   <headword>abide</headword>
   <headword>dazzle</headword>
@@ -1543,5 +1610,10 @@
   <headword>lush</headword>
   <headword>syrup</headword>
   <headword>rancorous</headword>
+  <headword>staggering</headword>
+  <headword>burgeon</headword>
+  <headword>lore</headword>
+  <headword>condiment</headword>
+  <headword>tenuous</headword>
  </folder>
 </root>
